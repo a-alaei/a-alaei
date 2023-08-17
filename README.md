@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @a-alaei
 - 👀 I’m interested in Coding, working out, and the beach
-- 🌱 I’m currently learning Front-end Development. Short-Term Plan -> Front-End Long-Term Plan -> Full-Stack
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me : My E-Mail
 
 <!---
